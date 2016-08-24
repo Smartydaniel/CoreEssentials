@@ -3,15 +3,14 @@
 <br />
 <br />
 
-**A plugin made by Logan and Daniel Capuano**
+**A plugin made by Logan and Daniel Capuano!**
 
-<br />
-
-*A plugin that amplifies your Minecraft server experience!*
 
 <br />
 
 ---
+
+<br />
 
 ###List of advantages over Essentials
 
